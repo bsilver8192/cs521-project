@@ -1,0 +1,133 @@
+Code,FAF Region,State,State/Remainder of State which includes Part of this CMA,Type of Region
+11,Birmingham-Hoover-Talladega, AL CFS Area,AL, ,C
+12,Mobile-Daphne-Fairhope, AL CFS Area,AL, ,C
+19,Remainder of Alabama,AL, ,R
+20,Alaska,AK, ,S
+41,Phoenix-Mesa-Glendale, AZ CFS Area,AZ, ,M
+42,Tucson-Nogales, AZ CFS Area,AZ, ,C
+49,Remainder of Arizona,AZ, ,R
+50,Remainder of Arkansas,AR, ,S
+61,Los Angeles-Long Beach, CA CFS Area,CA, ,C
+62,Sacramento-Roseville, CA CFS Area,CA, ,C
+63,San Diego-Carlsbad-San Marcos, CA CFS Area,CA, ,M
+64,San Jose-San Francisco-Oakland, CA CFS Area,CA, ,C
+65,Fresno-Madera, CA CFS Area,CA, ,C
+69,Remainder of California,CA, ,R
+81,Denver-Aurora, CO CFS Area,CO, ,C
+89,Remainder of Colorado,CO, ,R
+91,Hartford-West Hartford-East Hartford, CT CFS Area,CT, ,M
+92,New York-Newark, NY-NJ-CT-PA CFS Area (CT Part),CT,NY, NY, PA,C
+99,Remainder of Connecticut,CT, ,R
+101,Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (DE Part),DE,PA, NJ, MD,C
+109,Remainder of Delaware,DE, ,R
+111,Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (DC Part),DC,VA, MD, WV,SM
+121,Jacksonville-St. Marys-Palatka, FL-GA CFS Area (FL Part),FL,GA,C
+122,Miami-Fort Lauderdale-Port St. Lucie, FL CFS Area,FL, ,C
+123,Orlando-Deltona-Daytona Beach, FL CFS Area,FL, ,C
+124,Tampa-St. Petersburg-Clearwater, FL CFS Area,FL, ,M
+129,Remainder of Florida,FL, ,R
+131,Atlanta-Athens-Clarke County-Sandy Springs, GA CFS Area,GA, ,C
+132,Savannah-Hinesville-Statesboro, GA CFS Area,GA, ,C
+139,Remainder of Georgia,GA, ,R
+151,Urban Honolulu, HI CFS Area,HI, ,M
+159,Remainder of Hawaii,HI, ,R
+160,Idaho,ID,IN, WI,S
+171,Chicago-Naperville, IL-IN-WI CFS Area (IL Part),IL, ,C
+172,St. Louis-St. Charles-Farmington, MO-IL CFS Area (IL Part),IL,MO,C
+179,Remainder of Illinois,IL, ,R
+181,Chicago-Naperville, IL-IN-WI CFS Area (IN Part),IN,IL, WI,C
+182,Indianapolis-Carmel-Muncie, IN CFS Area,IN, ,C
+183,Fort Wayne-Huntington-Auburn, IN CFS Area,IN, ,C
+189,Remainder of Indiana,IN, ,R
+190,Remainder of Iowa,IA, ,S
+201,Kansas City-Overland Park-Kansas City, MO-KS CFS Area (KS Part),KS,MO,C
+202,Wichita-Arkansas City-Winfield, KS CFS Area,KS, ,C
+209,Remainder of Kansas,KS, ,R
+211,Cincinnati-Wilmington-Maysville, OH-KY-IN CFS Area (KY Part),KY,OH, IN,C
+212,Louisville/Jefferson County-Elizabethtown-Madison, KY-IN CFS Area (KY Part),KY,IN,C
+219,Remainder of Kentucky,KY, ,R
+221,Baton Rouge, LA CFS Area,LA, ,M
+222,Lake Charles, LA CFS Area,LA, ,M
+223,New Orleans-Metairie-Hammond, LA-MS CFS Area (LA Part),LA,MS,C
+229,Remainder of Louisiana,LA, ,R
+230,Remainder of Maine,ME, ,S
+241,Baltimore-Columbia-Towson, MD CFS Area,MD, ,M
+242,Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (MD Part),MD,DC, VA, WV,M
+249,Remainder of Maryland,MD, ,R
+251,Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (MA Part),MA,RI, NH, CT,C
+259,Remainder of Massachusetts,MA, ,R
+261,Detroit-Warren-Ann Arbor, MI CFS Area,MI, ,C
+262,Grand Rapids-Wyoming-Muskegon, MI CFS Area,MI, ,C
+269,Remainder of Michigan,MI, ,R
+271,Minneapolis-St. Paul, MN-WI CFS Area (MN Part),MN,WI,C
+279,Remainder of Minnesota,MN, ,R
+280,Remainder of Mississippi,MS, ,S
+291,Kansas City-Overland Park-Kansas City, MO-KS CFS Area (MO Part),MO,KS,C
+292,St. Louis-St. Charles-Farmington, MO-IL CFS Area (MO Part),MO,IL,C
+299,Remainder of Missouri,MO, ,R
+300,Remainder of Montana,MT, ,S
+311,Omaha-Council Bluffs-Fremont, NE-IA CFS Area (NE Part),NE,IA,C
+319,Remainder of Nebraska,NE, ,R
+321,Las Vegas-Henderson, NV-AZ CFS Area (NV Part),NV,AZ,C
+329,Remainder of Nevada,NV, ,R
+331,Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (NH Part),NH,MA, RI, CT,C
+339,Remainder of New Hampshire,NH, ,R
+341,New York-Newark, NY-NJ-CT-PA CFS Area (NJ Part),NJ,NY, CT, PA,C
+342,Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (NJ Part),NJ,PA, DE, MD,C
+350,Remainder of New Mexico,NM, ,S
+361,Albany-Schenectady, NY CFS Area,NY, ,C
+362,Buffalo-Cheektowaga, NY CFS Area,NY, ,C
+363,New York-Newark, NY-NJ-CT-PA CFS Area (NY Part),NY,NJ, CT, PA,C
+364,Rochester-Batavia-Seneca Falls, NY CFS Area,NY, ,C
+369,Remainder of New York,NY, ,R
+371,Charlotte-Concord, NC-SC CFS Area (NC Part),NC,SC,C
+372,Greensboro-Winston-Salem-High Point, NC CFS Area,NC, ,C
+373,Raleigh-Durham-Chapel Hill, NC CFS Area,NC, ,C
+379,Remainder of North Carolina,NC, ,R
+380,Remainder of North Dakota,ND, ,S
+391,Cincinnati-Wilmington-Maysville, OH-KY-IN CFS Area (OH Part),OH,KY, IN,C
+392,Cleveland-Akron-Canton, OH CFS Area,OH, ,C
+393,Columbus-Marion-Zanesville, OH CFS Area,OH, ,C
+394,Dayton-Springfield-Sidney, OH CFS Area,OH, ,C
+399,Remainder of Ohio,OH, ,R
+401,Oklahoma City-Shawnee, OK CFS Area,OK, ,C
+402,Tulsa-Muskogee-Bartlesville, OK CFS Area,OK, ,C
+409,Remainder of Oklahoma,OK, ,R
+411,Portland-Vancouver-Salem, OR-WA CFS Area (OR Part),OR,WA,C
+419,Remainder of Oregon,OR, ,R
+421,Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (PA Part),PA,NJ, DE, MD,C
+422,Pittsburgh-New Castle-Weirton, PA-OH-WV CFS Area (PA Part),PA,OH, WV,C
+423,New York-Newark, NY-NJ-CT-PA CFS Area (PA Part),PA,NY, NJ, CT,C
+429,Remainder of Pennsylvania,PA, ,R
+441,Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (RI Part),RI,MA, NH, CT,SM
+451,Charleston-North Charleston-Summerville, SC CFS Area,SC, ,M
+452,Greenville-Spartanburg-Anderson, SC CFS Area,SC, ,C
+459,Remainder of South Carolina,SC, ,R
+460,Remainder of South Dakota,SD, ,S
+471,Memphis, TN-MS-AR CFS Area (TN Part),TN,MS, AR,C
+472,Nashville-Davidson-Murfreesboro, TN CFS Area,TN, ,C
+473,Knoxville-Morristown-Sevierville, TN CFS Area,TN, ,C
+479,Remainder of Tennessee,TN, ,R
+481,Austin-Round Rock, TX CFS Area,TX, ,M
+482,Beaumont-Port Arthur, TX CFS Area,TX, ,M
+483,Corpus Christi-Kingsville-Alice, TX CFS Area,TX, ,C
+484,Dallas-Fort Worth, TX-OK CFS Area (TX Part),TX,OK,C
+485,El Paso-Las Cruces, TX-NM CFS Area (TX Part),TX,NM,C
+486,Houston-The Woodlands, TX CFS Area,TX, ,C
+487,Laredo, TX CFS Area,TX, ,M
+488,San Antonio-New Braunfels, TX CFS Area,TX, ,M
+489,Remainder of Texas,TX, ,R
+491,Salt Lake City-Provo-Orem, UT CFS Area,UT, ,C
+499,Remainder of Utah,UT, ,R
+500,Remainder of Vermont,VT, ,S
+511,Richmond, VA CFS Area,VA, ,M
+512,Virginia Beach-Norfolk, VA-NC CFS Area (VA Part),VA,NC,C
+513,Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (VA Part),VA,DC, MD, WV,M
+519,Remainder of Virginia,VA, ,R
+531,Seattle-Tacoma, WA CFS Area,WA, ,C
+532,Portland-Vancouver-Salem, OR-WA CFS Area (WA Part),WA,OR,C
+539,Remainder of Washington,WA, ,R
+540,Remainder of West Virginia,WV, ,S
+551,Milwaukee-Racine-Waukesha, WI CFS Area,WI, ,C
+559,Remainder of Wisconsin,WI, ,R
+560,Remainder of Wyoming,WY, ,
