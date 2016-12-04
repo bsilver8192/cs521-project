@@ -5,7 +5,7 @@ getCentroid <- function(row){
   coords = matrix(ncol=2, nrow=0)
   n = 0
   t = 0
-  if (startsWith(row[2], "redir")){
+  if (grepl("^redir", row[2])){
     row = locations[which(locations$LocCode == as.numeric(substr(row[2], 7, 99))),]
   }
   for (i in names(row)){
